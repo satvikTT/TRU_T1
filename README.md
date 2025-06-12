@@ -101,5 +101,14 @@ In a larger or enterprise network, more robust security controls are essential. 
 Educating others is crucial because human error is a common cause of security breaches. 
 I would conduct awareness sessions emphasizing simple practices like **avoiding suspicious links, using strong passwords, enabling two-factor authentication, and updating software regularly**.
 Using real-life examples and interactive demonstrations, I would show how small actions can prevent large-scale security incidents, making network safety a shared responsibility.
-
 ---
+
+##  Deliverables
+- Report File: `network_security_report.pdf`
+- Screenshots: `ssfile.pdf`
+- This `README.md` file
+---
+## Author
+**Intern Name**: _SATVIK BHAGAT_  
+**Internship**: Cyber Security Internship @ The Red Users  
+**Duration**: [25-05-2025] – [25-06-2025]
