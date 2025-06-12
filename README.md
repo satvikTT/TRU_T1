@@ -48,7 +48,7 @@ Understand and demonstrate basic network security concepts by identifying threat
    - Helps minimize the attack surface and prevents unauthorized access.
 
 ### Summary
-Network threats such as viruses, worms, trojans, and phishing attacks exploit system vulnerabilities and human error to compromise data and systems. Understanding and applying basic security concepts like firewalls, encryption, and secure configurations is essential to defend against these threats and maintain network integrity and confidentiality.
+#### Network threats such as viruses, worms, trojans, and phishing attacks exploit system vulnerabilities and human error to compromise data and systems. Understanding and applying basic security concepts like firewalls, encryption, and secure configurations is essential to defend against these threats and maintain network integrity and confidentiality.
 ---
 ## Implement **Basic Security Measures**
 
