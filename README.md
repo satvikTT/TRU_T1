@@ -15,7 +15,6 @@ Understand and demonstrate basic network security concepts by identifying threat
 - Alternatively, **Kali Linux** can be used since Wireshark is already included by default.
 ---
 ## Core Concepts covered in **Network Security** 
---
 ### Common Type of Network Threats
 1. Viruses
    - A virus is a type of malicious software that attaches itself to legitimate programs or files.
@@ -33,7 +32,7 @@ Understand and demonstrate basic network security concepts by identifying threat
    - Involve fraudulent communication (usually emails or websites) that appear to come from trusted sources.
    - Aim to trick users into providing sensitive data such as passwords, credit card details, or login credentials.
    - Often combined with social engineering techniques.
---
+
 ### Basic Security Concepts
 1. Firewalls
    - A firewall is a network security system that monitors and controls incoming and outgoing traffic.
@@ -47,22 +46,22 @@ Understand and demonstrate basic network security concepts by identifying threat
    - Involves setting up systems and networks in a way that reduces vulnerability to attacks.
    - Includes disabling unused ports/services, updating software, using strong authentication, and applying security patches.
    - Helps minimize the attack surface and prevents unauthorized access.
---
+
 ### Summary
 Network threats such as viruses, worms, trojans, and phishing attacks exploit system vulnerabilities and human error to compromise data and systems. Understanding and applying basic security concepts like firewalls, encryption, and secure configurations is essential to defend against these threats and maintain network integrity and confidentiality.
 ---
 ## Implement **Basic Security Measures**
---
+
 ### Network Environment Setup:
 - Used a home router or virtual lab (VirtualBox with 2 VMs).
 - Connected devices: 1 host system, 1 client (optional).
---
+
 ### Security Actions Taken:
 - Enabled and configured **Windows Defender Firewall**.
 - Blocked unauthorized ports (e.g., FTP, Telnet).
 - Changed router admin default credentials.
 - Enabled **WPA2/WPA3 encryption** on Wi-Fi.
---
+
 ## **Supervise Network Data** Transmission 
 - Screenshots Included:
   - Configuration view of Windows Defender Firewall settings.
@@ -87,7 +86,7 @@ Implementing basic security measures significantly strengthens a network’s def
 Together, these steps build a layered defense that protects even small networks from common cyber threats.
 ---
 ## Reflection on Security Best Practices
---
+
 ### Additional Measures for Larger Networks
 In a larger or enterprise network, more robust security controls are essential. These may include:
 - **Intrusion Detection and Prevention Systems (IDS/IPS)** to monitor and react to malicious traffic.
@@ -96,7 +95,11 @@ In a larger or enterprise network, more robust security controls are essential. 
 - **Endpoint Detection and Response (EDR)** tools to monitor all endpoints.
 - **Regular Patch Management** to fix known vulnerabilities promptly.
 - **Network Access Control (NAC)** to ensure only authorized devices connect.
---
+
 ### Educating Others About Network Security
-Educating others is crucial because human error is a common cause of security breaches. I would conduct awareness sessions emphasizing simple practices like avoiding suspicious links, using strong passwords, enabling two-factor authentication, and updating software regularly. Using real-life examples and interactive demonstrations, I would show how small actions can prevent large-scale security incidents, making network safety a shared responsibility.
+
+Educating others is crucial because human error is a common cause of security breaches. 
+I would conduct awareness sessions emphasizing simple practices like **avoiding suspicious links, using strong passwords, enabling two-factor authentication, and updating software regularly**.
+Using real-life examples and interactive demonstrations, I would show how small actions can prevent large-scale security incidents, making network safety a shared responsibility.
+
 ---
