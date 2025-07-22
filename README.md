@@ -156,7 +156,5 @@ In a larger or enterprise network, more robust security controls are essential. 
 ---
 
 ## Author
-**Intern Name**: _SATVIK BHAGAT_  
-**Internship**: Cyber Security Internship @ The Red Users  
-**Duration**: [25-05-2025] – [25-06-2025]
+**Name**: _SATVIK BHAGAT_  
 ---
